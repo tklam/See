@@ -8,6 +8,9 @@ The code in this repository is the result of my work done during an upsetting
 weekend. You may find the code useful, particularly if you are trying to
 integrate Qt/QML with OpenCV. Pull requests are very welcome.
 
+If you just want to use it, you can download the APK
+[here](https://dl.dropboxusercontent.com/u/9754213/colourIdentifier.apk).
+
 ## Depends on
 
 + Qt 5.5.0
