@@ -134,6 +134,6 @@ void FlowController::setImageProcessor(ImageProcessor & imageProcessor)
 QString FlowController::formatRgb(RGB const & rgb)
 {
     QString rgbString;
-    rgbString.sprintf("(%d, %d, %d)", rgb.red, rgb.blue, rgb.green);
+    rgbString.sprintf("(%d, %d, %d)", rgb.red, rgb.green, rgb.blue);
     return rgbString;
 }
